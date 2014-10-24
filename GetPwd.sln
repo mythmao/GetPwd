@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPwd", "GetPwd\GetPwd.csproj", "{311C7E56-E3A5-449D-8306-DEFF7C3D8403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordPolicy", "Cloud.Passport.PasswordPolicy\PasswordPolicy.csproj", "{3691B1D0-0A04-4948-8E68-55F1901F4BC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPwdForm", "GetPwdForm\GetPwdForm.csproj", "{BDE63688-D07C-40EA-9AC0-FEC8FCB2B0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{311C7E56-E3A5-449D-8306-DEFF7C3D8403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311C7E56-E3A5-449D-8306-DEFF7C3D8403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311C7E56-E3A5-449D-8306-DEFF7C3D8403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311C7E56-E3A5-449D-8306-DEFF7C3D8403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3691B1D0-0A04-4948-8E68-55F1901F4BC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3691B1D0-0A04-4948-8E68-55F1901F4BC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3691B1D0-0A04-4948-8E68-55F1901F4BC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3691B1D0-0A04-4948-8E68-55F1901F4BC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE63688-D07C-40EA-9AC0-FEC8FCB2B0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE63688-D07C-40EA-9AC0-FEC8FCB2B0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE63688-D07C-40EA-9AC0-FEC8FCB2B0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE63688-D07C-40EA-9AC0-FEC8FCB2B0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
